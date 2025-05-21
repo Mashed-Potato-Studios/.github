@@ -42,7 +42,7 @@ Got an idea but need expert guidance? We provide valuable **consulting and strat
 Have a project in mind? Let's bring it to life! Connect with us:
 
 📞 **Phone**: +1 (561) 803-5750  
-🌐 **Website**: [https://mashedpotatstudios.com](https://mashedpotatstudios.com)  
+🌐 **Website**: [https://mashedpotatstudios.com](https://mashedpotatostudios.com)  
 
 Follow us on social media for updates on our latest projects and tech insights:
 - [Facebook](#)
