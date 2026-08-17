@@ -38,7 +38,7 @@
 
 | Product | Focus Area | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **[`Experien`](https://github.com/Mashed-Potato-Studios/experien-core)** | Platform Ecosystem | Next-generation experiential product and collaboration architecture. | `ACTIVE` |
+| **[`Experien`]()** | Platform Ecosystem | Next-generation experiential product and collaboration architecture. | `ACTIVE` |
 | **[`Solo Level`](https://github.com/Mashed-Potato-Studios/solo-level-public)** | Developer Growth | Gamified developer progression system and quest-based leveling engine. | `PUBLIC ROADMAP` |
 | **[`Specificity`](https://github.com/Mashed-Potato-Studios/specificity)** | AI Agent Skills | Universal developer profile skill family adapting AI agents to personal dialect & style. | `OPEN SOURCE` |
 
