@@ -1,52 +1,77 @@
-# Mashed Potato Studios (MPS)
+<div align="center">
 
-Welcome to **Mashed Potato Studios (MPS)**! We are a forward-thinking software development company dedicated to building innovative, high-quality solutions that empower businesses and individuals. Our passionate team of developers, designers, and creative problem-solvers collaborate to create cutting-edge software and applications that exceed expectations.
+# `MASHED POTATO STUDIOS`
 
----
+**Engineering Software Excellence · AI Systems · Enterprise Cloud Infrastructure**
 
-## 🚀 Our Mission
-At MPS, we combine **technology and creativity** to solve real-world challenges. Our goal is to develop software that is **functional, efficient, user-friendly, and visually stunning**. We aim to be a trusted partner for businesses undergoing digital transformation, making a meaningful impact on users worldwide.
+<br />
 
----
+[![Website](https://img.shields.io/badge/WEBSITE-mashpotatostudios.com-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=18181b)](https://mashpotatostudios.com)
+[![MPS Studio](https://img.shields.io/badge/OBSERVATORY-MPS_Studio-09090b?style=for-the-badge&logo=nuxt&logoColor=ffffff&labelColor=18181b)](https://studio.mashpotatostudios.com)
+[![Research](https://img.shields.io/badge/RESEARCH-MPS_Labs-09090b?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=18181b)](https://mashpotatostudios.com/labs)
+[![Status](https://img.shields.io/badge/SYSTEMS-OPERATIONAL-09090b?style=for-the-badge&logo=statuspage&logoColor=22c55e&labelColor=18181b)](https://mashpotatostudios.com)
 
-## 💡 What We Do
-
-### 🔹 Custom Software Development  
-We specialize in **tailor-made** software solutions designed to meet your unique business needs. Whether it's a **web app, mobile app, or enterprise software**, we turn your ideas into reality.
-
-### 🔹 Web Development  
-Our team builds **responsive, secure, and scalable** websites that enhance your online presence. We leverage the latest technologies and best practices for **seamless user experiences**.
-
-### 🔹 Mobile App Development  
-From **iOS to Android**, we develop high-performance mobile apps that engage users and adapt to the evolving mobile landscape.
-
-### 🔹 UI/UX Design  
-We believe great design is at the core of successful software. Our designers craft **visually appealing, user-centric interfaces** to maximize usability and engagement.
-
-### 🔹 Product Consulting  
-Got an idea but need expert guidance? We provide valuable **consulting and strategic insights** to help you refine your vision and execute it effectively.
+<br />
 
 ---
 
-## 🎯 Why Choose MPS?
+### `// ARCHITECTURE & DIVISIONS`
 
-✅ **Expertise** – A skilled team with deep knowledge of cutting-edge technologies and best practices.  
-✅ **Customer-Centric Approach** – Your success is our priority. We craft solutions tailored to your needs.  
-✅ **Quality Assurance** – Rigorous testing ensures our products are **reliable and high-performing**.  
-✅ **Transparency** – Open communication throughout the entire development process.  
-✅ **On-Time Delivery** – We meet deadlines **without compromising quality**.
+</div>
 
----
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│  MASHED POTATO STUDIOS — GLOBAL ECOSYSTEM MATRIX                                         │
+├──────────────────────────────┬──────────────────────────────┬────────────────────────────┤
+│  01. MPS PLATFORM            │  02. MPS STUDIO              │  03. MPS LABS              │
+│  Enterprise Engineering      │  Real-Time Observatory       │  Advanced R&D & AI Systems │
+│  • Custom Web Applications   │  • Milestone & Task Stream   │  • Algorithmic Discovery   │
+│  • High-Performance Mobile   │  • Sprint Ledger Telemetry   │  • Neural Network Design   │
+│  • Desktop Software Suites   │  • Real-Time GitHub Sync     │  • Agentic Workflows       │
+│  • Business Automation Hub   │  • Client Command Console    │  • Experimental Incubation │
+└──────────────────────────────┴──────────────────────────────┴────────────────────────────┘
+```
 
-## 📞 Get in Touch
-Have a project in mind? Let's bring it to life! Connect with us:
+<br />
 
-📞 **Phone**: +1 (876) 443-2738  
-🌐 **Website**: [https://mashedpotatstudios.com](https://mashedpotatostudios.com)  
+### `// FLAGSHIP PRODUCTS & ECOSYSTEM`
 
-Follow us on social media for updates on our latest projects and tech insights:
-- [Facebook](#)
-- [Twitter](#)
+| Product | Focus Area | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **[`Experien`](https://github.com/Mashed-Potato-Studios/experien-core)** | Platform Ecosystem | Next-generation experiential product and collaboration architecture. | `ACTIVE` |
+| **[`Solo Level`](https://github.com/Mashed-Potato-Studios/solo-level-public)** | Developer Growth | Gamified developer progression system and quest-based leveling engine. | `PUBLIC ROADMAP` |
+| **[`Specificity`](https://github.com/Mashed-Potato-Studios/specificity)** | AI Agent Skills | Universal developer profile skill family adapting AI agents to personal dialect & style. | `OPEN SOURCE` |
 
-We look forward to collaborating with you and making your ideas a reality! 🎉
+<br />
 
+### `// CORE ENGINEERING STACK`
+
+<div align="center">
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend & UI** | `Nuxt 4` · `Vue 3` · `TypeScript` · `Tailwind CSS v4` · `Reka UI` |
+| **Backend & Runtime** | `Nitro Engine` · `Node.js` · `Python` · `Serverless Edge Functions` |
+| **Data & State** | `Convex Database` · `Supabase Postgres` · `Drizzle ORM` · `Pinia` |
+| **Infra & Payments** | `Vercel Edge Network` · `Stripe API` · `GitHub Actions CI/CD` |
+
+</div>
+
+<br />
+
+### `// ENGAGE & COLLABORATE`
+
+```
+  Website:      https://mashpotatostudios.com
+  Studio:       https://studio.mashpotatostudios.com
+  Inquiries:    https://mashpotatostudios.com/request
+  Location:     Miami, FL & Kingston, JM · Worldwide Distributed Engineering
+```
+
+<br />
+
+<div align="center">
+
+<sub>© 2026 Mashed Potato Studios. All rights reserved. Precision engineering for the modern web.</sub>
+
+</div>

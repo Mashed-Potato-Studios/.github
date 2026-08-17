@@ -1,48 +1,77 @@
-# .github
+<div align="center">
 
-# Mashed Potato Studios (MPS)
+# `MASHED POTATO STUDIOS`
 
-Welcome to Mashed Potato Studios (MPS)! We are a dynamic and innovative software development company committed to delivering high-quality solutions that empower businesses and individuals alike. Our team of talented developers, designers, and creative thinkers collaborate to build cutting-edge software products and applications that exceed expectations.
+**Engineering Software Excellence · AI Systems · Enterprise Cloud Infrastructure**
 
-## Our Mission
-At MPS, our mission is to harness the power of technology and creativity to solve real-world problems. We strive to build software that is not only functional and efficient but also user-friendly and aesthetically pleasing. Our goal is to become a trusted partner for businesses seeking digital transformation and to make a positive impact on the lives of our users.
+<br />
 
-## Services We Offer
-1. Custom Software Development
-We specialize in crafting tailor-made software solutions to meet your unique business requirements. Whether it's a web application, mobile app, or enterprise software, we have the expertise to bring your ideas to life.
+[![Website](https://img.shields.io/badge/WEBSITE-mashpotatostudios.com-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=18181b)](https://mashpotatostudios.com)
+[![MPS Studio](https://img.shields.io/badge/OBSERVATORY-MPS_Studio-09090b?style=for-the-badge&logo=nuxt&logoColor=ffffff&labelColor=18181b)](https://studio.mashpotatostudios.com)
+[![Research](https://img.shields.io/badge/RESEARCH-MPS_Labs-09090b?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=18181b)](https://mashpotatostudios.com/labs)
+[![Status](https://img.shields.io/badge/SYSTEMS-OPERATIONAL-09090b?style=for-the-badge&logo=statuspage&logoColor=22c55e&labelColor=18181b)](https://mashpotatostudios.com)
 
-2. Web Development
-Our web development team creates responsive, intuitive, and secure websites that enhance your online presence. We utilize the latest technologies and best practices to deliver seamless user experiences.
+<br />
 
-3. Mobile App Development
-From iOS to Android, we develop mobile apps that captivate users and deliver exceptional performance. Our mobile solutions are built to scale and adapt to the evolving mobile landscape.
+---
 
-4. UI/UX Design
-We believe that great design is the heart of every successful software product. Our UI/UX designers create visually appealing and user-centric interfaces that enhance usability and engagement.
+### `// ARCHITECTURE & DIVISIONS`
 
-5. Product Consulting
-If you have an idea but need guidance on how to execute it effectively, our team of experts can provide valuable insights and consultancy to help you make informed decisions.
+</div>
 
-## Why Choose MPS?
-**Expertise**: Our team consists of highly skilled professionals with a deep understanding of the latest technologies and development practices.
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│  MASHED POTATO STUDIOS — GLOBAL ECOSYSTEM MATRIX                                         │
+├──────────────────────────────┬──────────────────────────────┬────────────────────────────┤
+│  01. MPS PLATFORM            │  02. MPS STUDIO              │  03. MPS LABS              │
+│  Enterprise Engineering      │  Real-Time Observatory       │  Advanced R&D & AI Systems │
+│  • Custom Web Applications   │  • Milestone & Task Stream   │  • Algorithmic Discovery   │
+│  • High-Performance Mobile   │  • Sprint Ledger Telemetry   │  • Neural Network Design   │
+│  • Desktop Software Suites   │  • Real-Time GitHub Sync     │  • Agentic Workflows       │
+│  • Business Automation Hub   │  • Client Command Console    │  • Experimental Incubation │
+└──────────────────────────────┴──────────────────────────────┴────────────────────────────┘
+```
 
-**Customer-Centric Approach**: We prioritize our clients and their needs. Our solutions are designed to address your unique challenges and goals.
+<br />
 
-**Quality Assurance**: Delivering top-notch products is our priority. We conduct rigorous testing to ensure the reliability and performance of our software.
+### `// FLAGSHIP PRODUCTS & ECOSYSTEM`
 
-**Transparency**: We believe in fostering open communication and transparency throughout the development process.
+| Product | Focus Area | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **[`Experien`](https://github.com/Mashed-Potato-Studios/experien-core)** | Platform Ecosystem | Next-generation experiential product and collaboration architecture. | `ACTIVE` |
+| **[`Solo Level`](https://github.com/Mashed-Potato-Studios/solo-level-public)** | Developer Growth | Gamified developer progression system and quest-based leveling engine. | `PUBLIC ROADMAP` |
+| **[`Specificity`](https://github.com/Mashed-Potato-Studios/specificity)** | AI Agent Skills | Universal developer profile skill family adapting AI agents to personal dialect & style. | `OPEN SOURCE` |
 
-**Timely Delivery**: We are committed to delivering projects on time without compromising on quality.
+<br />
 
-## Get in Touch
-Have a project in mind? Let's collaborate and create something exceptional together! Reach out to us via:
+### `// CORE ENGINEERING STACK`
 
-Email: hello@teammps.com
-Phone: +1 (561) 803-5750
-Website: https://www.teammps.com
-Follow us on social media to stay updated with our latest projects and tech insights:
+<div align="center">
 
-Facebook
-Twitter
-We look forward to collaborating with you and turning your ideas into reality!
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend & UI** | `Nuxt 4` · `Vue 3` · `TypeScript` · `Tailwind CSS v4` · `Reka UI` |
+| **Backend & Runtime** | `Nitro Engine` · `Node.js` · `Python` · `Serverless Edge Functions` |
+| **Data & State** | `Convex Database` · `Supabase Postgres` · `Drizzle ORM` · `Pinia` |
+| **Infra & Payments** | `Vercel Edge Network` · `Stripe API` · `GitHub Actions CI/CD` |
 
+</div>
+
+<br />
+
+### `// ENGAGE & COLLABORATE`
+
+```
+  Website:      https://mashpotatostudios.com
+  Studio:       https://studio.mashpotatostudios.com
+  Inquiries:    https://mashpotatostudios.com/request
+  Location:     Miami, FL & Kingston, JM · Worldwide Distributed Engineering
+```
+
+<br />
+
+<div align="center">
+
+<sub>© 2026 Mashed Potato Studios. All rights reserved. Precision engineering for the modern web.</sub>
+
+</div>
