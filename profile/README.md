@@ -6,10 +6,10 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/WEBSITE-mashpotatostudios.com-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=18181b)](https://mashpotatostudios.com)
-[![MPS Studio](https://img.shields.io/badge/OBSERVATORY-MPS_Studio-09090b?style=for-the-badge&logo=nuxt&logoColor=ffffff&labelColor=18181b)](https://studio.mashpotatostudios.com)
-[![Research](https://img.shields.io/badge/RESEARCH-MPS_Labs-09090b?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=18181b)](https://mashpotatostudios.com/labs)
-[![Status](https://img.shields.io/badge/SYSTEMS-OPERATIONAL-09090b?style=for-the-badge&logo=statuspage&logoColor=22c55e&labelColor=18181b)](https://mashpotatostudios.com)
+[![Website](https://img.shields.io/badge/WEBSITE-mashpotatostudios.com-09090b?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=18181b)](https://mashedpotatostudios.com)
+[![MPS Studio](https://img.shields.io/badge/OBSERVATORY-MPS_Studio-09090b?style=for-the-badge&logo=nuxt&logoColor=ffffff&labelColor=18181b)](https://studio.mashedpotatostudios.com)
+[![Research](https://img.shields.io/badge/RESEARCH-MPS_Labs-09090b?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=18181b)](https://mashedpotatostudios.com/labs)
+[![Status](https://img.shields.io/badge/SYSTEMS-OPERATIONAL-09090b?style=for-the-badge&logo=statuspage&logoColor=22c55e&labelColor=18181b)](https://mashedpotatostudios.com)
 
 <br />
 
@@ -62,9 +62,9 @@
 ### `// ENGAGE & COLLABORATE`
 
 ```
-  Website:      https://mashpotatostudios.com
-  Studio:       https://studio.mashpotatostudios.com
-  Inquiries:    https://mashpotatostudios.com/request
+  Website:      https://mashedpotatostudios.com
+  Studio:       https://studio.mashedpotatostudios.com
+  Inquiries:    https://mashedpotatostudios.com/request
   Location:     Miami, FL & Kingston, JM · Worldwide Distributed Engineering
 ```
 
